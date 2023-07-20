@@ -1,12 +1,1 @@
-.image-container {
-  width: 600px; /* Set the desired width for the container */
-  height: 400px; /* Set the desired height for the container */
-  display: flex; /* To create a flex container */
-}
 
-.image-container img {
-  width: 100%; /* Make sure the images fill the container width */
-  height: 100%; /* Make sure the images fill the container height */
-  object-fit: cover; /* Optional - to control how the images are resized */
-  margin: 5px; /* Optional - add some spacing between images */
-}
